@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/logo.svg
+image: /img/photo-bruno.jpg
 heading: Great consulting with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
