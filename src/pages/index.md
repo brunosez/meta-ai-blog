@@ -5,7 +5,7 @@ image: /img/logo.svg
 heading: Great consulting with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why META-AI ??
+  title: "Why META-AI "
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
