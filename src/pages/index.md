@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/photo-bruno.jpg
+title: META-AI drives data-driven projects
+image: /img/bruno-van-der-kraan-qez8mnj3ilu-unsplash.jpg
 heading: Great consulting with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: more than 20y of project management experience
 mainpitch:
-  title: "Why META-AI "
+  title: Why META-AI ?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
